@@ -7,4 +7,3 @@ NO3 python的使用方法
 NO4 python实例
 NO5 操作系统实践
 NO6 编译器实践
-NO7
